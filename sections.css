@@ -1,0 +1,9 @@
+.pages {
+    min-height: 100vh;
+}
+.page1 {
+    background: lightblue;
+}
+.page2 {
+    background: rgb(102, 190, 219);
+}

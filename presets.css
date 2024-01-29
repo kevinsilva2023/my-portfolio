@@ -1,0 +1,26 @@
+:root  {
+
+    /* --- colors --- */
+    --bg-color: #0e152e;
+    --primary-color: #0A1128;
+    --seccond-color: crimson;
+    --third-color: ;
+    --fourth-color: ;
+    --white-color: #fff
+ 
+    /* --- fonts --- */
+
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  html {
+    font-size: 62.5%;
+    scroll-behavior: smooth; /*faz com que a rolagem seja mais sutil*/
+  }
+.menu-spacing {
+    margin-top: 78px;
+  }
